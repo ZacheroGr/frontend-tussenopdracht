@@ -1,0 +1,154 @@
+html {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    margin-top: 4.5rem;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    width: 100%;
+    overflow-x: hidden;
+    background-color: #495057;
+    color: white;
+}
+
+footer {
+    color: black;
+    background-color: #8d99ae;
+    padding: 1rem;
+    margin-top: 6rem;
+}
+
+h2 {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    padding: 1rem 1rem;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color:lightcyan;
+}
+
+nav {
+    padding-left: 20rem;
+    width: 100%;
+    background-color: #48bfe3;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+
+.RainbowSixImg {
+    width: 50%;
+    height: 45%;
+    margin-bottom: 3rem;
+}
+
+.navBar {
+    /* background-color: darkcyan; */
+    padding-bottom: 1rem;
+}
+
+.navigImg {
+    margin-right: 0.5rem;
+}
+
+.relatedArticlesBox {
+    display: flex;
+    justify-content: center;
+    gap: 8rem;
+}
+
+.articleBox {
+    display: flex;
+    gap: 4rem;
+}
+
+.RainbowSixFlex {
+    display: flex;
+    gap: 8rem;
+}
+
+.mainTitle {
+    font-size: 3rem;
+}
+
+
+
+.productDescription {
+    font-size: 1.25rem;
+}
+
+.puntenBox {
+    background-color: 495057;
+    margin: 2rem 0rem;
+    padding-left: 2rem;
+    padding-right: 8rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.punten {
+    padding-right: 5rem;
+}
+
+.articleDescriptionBox {
+    margin: 2rem 0rem;
+    padding-left: 2rem;
+    padding-right: 8rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.productname {
+    margin: 1rem 0rem;
+}
+
+.relatedTitle {
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.mainArticle {
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.article {
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.relatedArticles {
+    padding-left: 20rem;
+    padding-right: 20rem;
+}
+
+.bestelButton {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: 0.2rem solid lightcyan;
+    background-color: transparent;
+    color: white;
+}
+
+.bestelButton:hover {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: 0.2rem solid lightcyan;
+    border-radius: 0.5rem;
+    background-color: #48bfe3;
+    color: white;
+}
